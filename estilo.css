@@ -1,0 +1,33 @@
+/* Estilo para o cabeçalho */
+header {
+    background-color: #030141;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Estilo para o menu de navegação */
+  nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #030141;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Estilo para o rodapé */
+  footer {
+    background-color: #030141;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
